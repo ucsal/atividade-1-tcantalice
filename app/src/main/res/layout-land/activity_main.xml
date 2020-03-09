@@ -27,7 +27,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.42000002" />
+        app:layout_constraintVertical_bias="0.48000002" />
 
     <Button
         android:id="@+id/btnCumprimentar"
@@ -38,5 +38,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.51" />
+        app:layout_constraintVertical_bias="0.65" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Exercise1</string>
+    <string name="botao_cumprimentar">Cumprimentar</string>
+    <string name="nome_inicial">Mundo</string>
 </resources>
